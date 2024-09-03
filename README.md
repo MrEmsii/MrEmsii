@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Patryk Szczepanik</h1>
 <h3 align="center">A python developer from Poland</h3>
 
+- 🔭 I’m currently working on [3D_PaP](https://github.com/MrEmsii/3D_PaP)
+
 - 🌱 I’m currently learning **Python, NumPy and SQL**
+
+- ⚡ Fun fact **I love numerals but not Roman numerals!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/patryk-szczepanik-202442267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patryk-szczepanik-202442267/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
