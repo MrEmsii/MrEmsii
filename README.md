@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk Szczepanik</h1>
 <h3 align="center">A python developer from Poland</h3>
 
-- 🔭 I’m currently working on [3D_PaP](https://github.com/MrEmsii/3D_PaP)
+- 🔭 I’m currently working on [Project3DManager](https://github.com/MrEmsii/Project3DManager)
 
 - 🌱 I’m currently learning **Python, NumPy and SQL**
 
